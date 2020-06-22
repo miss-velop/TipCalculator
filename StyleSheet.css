@@ -41,7 +41,7 @@ label, input{
         margin-top: 20px;
     }
     #container
-    {
+    {   display:flex;
         opacity:0.9;
     }
     label,input{
